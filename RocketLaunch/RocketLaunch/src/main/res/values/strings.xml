@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Rocketeer</string>
+
+    <string name="login_cancel">Login Cancelled! To login in the future click the gamepad in the bottom left hand corner</string>
+
+</resources>

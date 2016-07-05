@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Justin\Dropbox\Programming\Android\STUDIO\RocketLaunch\RocketLaunch\build\intermediates\exploded-aar\RocketLaunch\BaseGameUtils\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="085f68cebc09daf33f3557eb454b104b9861bb18">
+        <dex dex="C:\Users\Justin\Dropbox\Programming\Android\STUDIO\RocketLaunch\RocketLaunch\build\intermediates\pre-dexed\debug\classes-e3dd46fb0242dc323e247ebe32032da2fd9a08a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Justin\Dropbox\Programming\Android\STUDIO\RocketLaunch\RocketLaunch\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="C:\Users\Justin\Dropbox\Programming\Android\STUDIO\RocketLaunch\RocketLaunch\build\intermediates\pre-dexed\debug\classes-94a7f3fee9d1e9f064b4c8a35bfec1f291d9a6fa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Justin\Dropbox\Programming\Android\STUDIO\RocketLaunch\RocketLaunch\build\intermediates\exploded-aar\RocketLaunch\Focus2D\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="97023e57cf71790fe0c7a6c630c7a45335328a51">
+        <dex dex="C:\Users\Justin\Dropbox\Programming\Android\STUDIO\RocketLaunch\RocketLaunch\build\intermediates\pre-dexed\debug\classes-20730928ec578f457a6a266af1b1b14425d7b7bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Justin\Dropbox\Programming\Android\STUDIO\RocketLaunch\RocketLaunch\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="C:\Users\Justin\Dropbox\Programming\Android\STUDIO\RocketLaunch\RocketLaunch\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-545bddcf16e5348ef4f2674a0dc44d6e1a435e1e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Justin\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="C:\Users\Justin\Dropbox\Programming\Android\STUDIO\RocketLaunch\RocketLaunch\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-2deb98af5dbeb6c101fa3c38baa8b3dc4c22a377.jar" />
+    </item>
+    <item
+        jar="C:\Users\Justin\Dropbox\Programming\Android\STUDIO\RocketLaunch\RocketLaunch\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\Justin\Dropbox\Programming\Android\STUDIO\RocketLaunch\RocketLaunch\build\intermediates\pre-dexed\debug\classes-2906704fc42220d0da44d0ccfc9ae29e5b0a02d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Justin\Dropbox\Programming\Android\STUDIO\RocketLaunch\RocketLaunch\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\Justin\Dropbox\Programming\Android\STUDIO\RocketLaunch\RocketLaunch\build\intermediates\pre-dexed\debug\classes-27162a14133ec9bd2c73775c66f0083c003f675a.jar" />
+    </item>
+
+</items>

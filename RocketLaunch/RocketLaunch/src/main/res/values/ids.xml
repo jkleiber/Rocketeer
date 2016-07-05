@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_id">1029199652393</string>
+    
+    <string name="leaderboard_total">CgkIqczRiPodEAIQHA</string>
+    <string name="leaderboard_single">CgkIqczRiPodEAIQHQ</string>
+    <string name="leaderboard_average">CgkIqczRiPodEAIQGw</string>
+    <string name="leaderboard_flights">CgkIqczRiPodEAIQHg</string>
+
+    <string name="achievement_warp">CgkIqczRiPodEAIQDA</string>
+    <string name="achievement_craft">CgkIqczRiPodEAIQDQ</string>
+    <string name="achievement_stats">CgkIqczRiPodEAIQEA</string>
+    <string name="achievement_fb">CgkIqczRiPodEAIQDg</string>
+    <string name="achievement_moon">CgkIqczRiPodEAIQAg</string>
+    <string name="achievement_branch">CgkIqczRiPodEAIQEQ</string>
+    <string name="achievement_planet">CgkIqczRiPodEAIQCQ</string>
+    <string name="achievement_galaxy">CgkIqczRiPodEAIQCg</string>
+    <string name="achievement_pilot">CgkIqczRiPodEAIQAw</string>
+    <string name="achievement_veteran">CgkIqczRiPodEAIQBQ</string>
+    <string name="achievement_master">CgkIqczRiPodEAIQBg</string>
+    <string name="achievement_deep">CgkIqczRiPodEAIQEw</string>
+    <string name="achievement_hyperspacer">CgkIqczRiPodEAIQBw</string>
+    <string name="achievement_galaxyacross">CgkIqczRiPodEAIQEg</string>
+    <string name="achievement_lightyear">CgkIqczRiPodEAIQCA</string>
+    <string name="achievement_parsec">CgkIqczRiPodEAIQCw</string>
+    <string name="achievement_highflyer">CgkIqczRiPodEAIQDw</string>
+
+    <string name="achievement_aviator">CgkIqczRiPodEAIQFQ</string>
+    <string name="achievement_premium">CgkIqczRiPodEAIQFg</string>
+    <string name="achievement_scrape">CgkIqczRiPodEAIQFw</string>
+    
+</resources>
